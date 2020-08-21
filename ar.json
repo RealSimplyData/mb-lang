@@ -1,8 +1,8 @@
 {
-    "INVALID_SYNTAX": "بناء جملة غير صالح ، يرجى تجربة `${syntax}`.",
-    "CURRENT_PREFIX": "بادئة الأمر الحالية هي `${prefix}`.",
-    "NEW_PREFIX": "تم تعيين بادئة الأمر على `${newPrefix}`.",
-    "CURRENT_LANGUAGE": "اللغة الحالية هي `${language}`.",
-    "NEW_LANGUAGE": "تم ضبط اللغة على `${newLanguage}`.",
+    "INVALID_SYNTAX": "بناء جملة غير صالح ، يرجى تجربة ${syntax}.",
+    "CURRENT_PREFIX": "بادئة الأمر الحالية هي ${prefix}.",
+    "NEW_PREFIX": "تم تعيين بادئة الأمر على ${newPrefix}.",
+    "CURRENT_LANGUAGE": "اللغة الحالية هي ${language}.",
+    "NEW_LANGUAGE": "تم ضبط اللغة على ${newLanguage}.",
     "AVAILABLE_LANGUAGES": "اللغات التالية متوفرة: `${languages}`\nلاختيار لغة ، يرجى استخدام رمز اللغة (** `ar` ** كمثال)"
 }
