@@ -5,5 +5,6 @@
   "CURRENT_LANGUAGE": "The current language is `${language}`.",
   "NEW_LANGUAGE": "The language has been set to `${newLanguage}`.",
   "AVAILABLE_LANGUAGES": "The following languages are available: ${languages}\nTo choose a language, please use the language code (**`en`** as example)",
-  "TEST": "Test Message"
+  "TEST": "Test Message",
+  "TEST_SECOND": "Second Test Message"
 }
