@@ -37,5 +37,10 @@
     "EMBED_MUTE_MODERATED_TITLE": "Zostałeś wyciszony",
     "EMBED_TMUTE_MODERATED_TITLE": "Zostałeś tymczasowo wyciszony",
     "EMBED_NOTE_MODERATED_TITLE": "Dostałeś upomnienie",
-    "EMBED_BAN_MODERATED_DESCRIPTION": "Zostałeś zbanowany na serwerze ${serverName}."
+    "EMBED_BAN_MODERATED_DESCRIPTION": "Zostałeś zbanowany na serwerze ${serverName}.",
+    "EMBED_TBAN_MODERATED_DESCRIPTION": "Zostałeś tymczasowo zbanowany na serwerze ${serverName}.",
+    "EMBED_KICK_MODERATED_DESCRIPTION": "Zostałeś wyrzucony z serwera ${serverName}.",
+    "EMBED_UNMUTE_MODERATED_DESCRIPTION": "Zostałeś odciszony na serwerze ${serverName}.",
+    "EMBED_MUTE_MODERATED_DESCRIPTION": "Zostałeś wyciszony na serwerze ${serverName}.",
+    "EMBED_TMUTE_MODERATED_DESCRIPTION": "Zostałeś tymczasowo wyciszony na serwerze ${serverName}."
 }
