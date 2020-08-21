@@ -1,10 +1,10 @@
 {
-    "NEW_PREFIX": "Der Prefix wurde auf `${newPrefix}` gesetzt.",
-    "NEW_LANGUAGE": "Die Sprache wurde auf `${newLanguage}` gesetzt.",
+    "NEW_PREFIX": "Der Prefix wurde auf ${newPrefix} gesetzt.",
+    "NEW_LANGUAGE": "Die Sprache wurde auf ${newLanguage} gesetzt.",
     "TEST": "Test Nachricht",
     "TEST_SECOND": "Zweite Test Nachricht",
-    "CURRENT_PREFIX": "Der derzeitige Prefix ist `${prefix}`.",
-    "INVALID_SYNTAX": "Ungültiger Syntax, bitte versuche `${syntax}`.",
-    "CURRENT_LANGUAGE": "Die derzeitige Sprache ist `${language}`.",
+    "CURRENT_PREFIX": "Der derzeitige Prefix ist ${prefix}.",
+    "INVALID_SYNTAX": "Ungültiger Syntax, bitte versuche ${syntax}.",
+    "CURRENT_LANGUAGE": "Die derzeitige Sprache ist ${language}.",
     "AVAILABLE_LANGUAGES": "Die folgenden Sprachen stehen zur Verfügung: ${languages}\nUm eine Sprache auszuwählen, bitte benutze dessen Sprachcode (**`de`** als Beispiel)"
 }
