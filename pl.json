@@ -6,5 +6,19 @@
     "TEST_SECOND": "Druga wiadomość testowa",
     "INVALID_SYNTAX": "Nieprawidłowa składnia, proszę spróbować ${syntax}.",
     "NEW_LANGUAGE": "Obecny język został zmieniony na ${newLanguage}.",
-    "AVAILABLE_LANGUAGES": "Następujące języki są dostępne: ${languages}\nŻeby wybrać język proszę użyć kodu języka, na przykład (**`pl`**)"
+    "AVAILABLE_LANGUAGES": "Następujące języki są dostępne: ${languages}\nŻeby wybrać język proszę użyć kodu języka, na przykład (**`pl`**)",
+    "EMBED_TBAN_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został tymczasowo zbanowany.",
+    "NO_PERMISSIONS": "Nie masz wystarczających uprawnień do użycia tej komendy.\nUżycie wymaga uprawnień ${permissions}.",
+    "SUPPORT_SERVER": "Możesz uzyskać pomoc odnośnie tego bota w ${serverInvite}.",
+    "EMBED_MODERATION_MOD_FIELD_TITLE": "Moderator",
+    "EMBED_MODERATION_REASON_FIELD_TITLE": "Powód",
+    "EMBED_MODERATION_EXPIRES_FIELD_TITLE": "Wygasa",
+    "EMBED_BAN_MODERATOR_TITLE": "Użytkownik Zbanowany",
+    "EMBED_UNMUTE_MODERATOR_TITLE": "Użytkownik Odciszony",
+    "EMBED_MUTE_MODERATOR_TITLE": "Użytkownik Wyciszony",
+    "EMBED_NOTE_MODERATOR_TITLE": "Użytkownik Dostał Upomnienie",
+    "EMBED_BAN_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został zbanowany.",
+    "EMBED_KICK_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został wyrzucony.",
+    "EMBED_UNMUTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został odciszony.",
+    "EMBED_TMUTE_MODERATOR_TITLE": "Użytkownik Tymczasowo Wyciszony"
 }
