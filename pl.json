@@ -1,1 +1,10 @@
-{}
+{
+    "CURRENT_PREFIX": "Obecnym prefiksem komend jest`${prefix}`.",
+    "NEW_PREFIX": "Prefiks komend został zmieniony na `${newPrefix}`.",
+    "CURRENT_LANGUAGE": "Obecnie ustawionym językiem jest `${language}`.",
+    "TEST": "Wiadomość testowa",
+    "TEST_SECOND": "Druga wiadomość testowa",
+    "INVALID_SYNTAX": "Nieprawidłowa składnia, proszę spróbować `${syntax}`.",
+    "NEW_LANGUAGE": "Obecny język został zmieniony na `${newLanguage}`.",
+    "AVAILABLE_LANGUAGES": "Następujące języki są dostępne: ${languages}\nŻeby wybrać język proszę użyć kodu języka, na przykład (**`pl`**)"
+}
