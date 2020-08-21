@@ -20,5 +20,6 @@
     "EMBED_BAN_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został zbanowany.",
     "EMBED_KICK_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został wyrzucony.",
     "EMBED_UNMUTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został odciszony.",
-    "EMBED_TMUTE_MODERATOR_TITLE": "Użytkownik Tymczasowo Wyciszony"
+    "EMBED_TMUTE_MODERATOR_TITLE": "Użytkownik Tymczasowo Wyciszony",
+    "EMBED_MODERATION_DASHBOARD_FIELD_TITLE": "Link do tablicy"
 }
