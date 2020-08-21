@@ -42,5 +42,7 @@
     "EMBED_KICK_MODERATED_DESCRIPTION": "Zostałeś wyrzucony z serwera ${serverName}.",
     "EMBED_UNMUTE_MODERATED_DESCRIPTION": "Zostałeś odciszony na serwerze ${serverName}.",
     "EMBED_MUTE_MODERATED_DESCRIPTION": "Zostałeś wyciszony na serwerze ${serverName}.",
-    "EMBED_TMUTE_MODERATED_DESCRIPTION": "Zostałeś tymczasowo wyciszony na serwerze ${serverName}."
+    "EMBED_TMUTE_MODERATED_DESCRIPTION": "Zostałeś tymczasowo wyciszony z serwera ${serverName}.",
+    "EMBED_NOTE_MODERATED_DESCRIPTION": "Dostałeś upomnienie z serwera ${serverName}.",
+    "INVALID_AUTH_CODE": "Podałeś nieważny kod autoryzacji."
 }
