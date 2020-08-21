@@ -21,5 +21,21 @@
     "EMBED_KICK_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został wyrzucony.",
     "EMBED_UNMUTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został odciszony.",
     "EMBED_TMUTE_MODERATOR_TITLE": "Użytkownik Tymczasowo Wyciszony",
-    "EMBED_MODERATION_DASHBOARD_FIELD_TITLE": "Link do tablicy"
+    "EMBED_MODERATION_DASHBOARD_FIELD_TITLE": "Link do tablicy",
+    "EMBED_MUTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został wyciszony.",
+    "EMBED_TMUTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został tymczasowo wyciszony.",
+    "EMBED_MODERATION_DASHBOARD_FIELD_VALUE": "Otwórz na Stronie Domowej serwera",
+    "EMBED_NOTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} dostał upomnienie.",
+    "EMBED_TBAN_MODERATOR_TITLE": "Użytkownik Tymczasowo Zbanowany",
+    "EMBED_KICK_MODERATOR_TITLE": "Użytkownik Wyrzucony",
+    "EMBED_STAFFNOTE_MODERATOR_TITLE": "Użytkownik Dostał Notatkę Od Administracji",
+    "EMBED_BAN_MODERATED_TITLE": "Zostałeś zbanowany",
+    "EMBED_TBAN_MODERATED_TITLE": "Zostałeś tymczasowo zbanowany",
+    "EMBED_KICK_MODERATED_TITLE": "Zostałeś wyrzucony",
+    "EMBED_STAFFNOTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} dostał notatkę od administracji. ",
+    "EMBED_UNMUTE_MODERATED_TITLE": "Zostałeś odciszony",
+    "EMBED_MUTE_MODERATED_TITLE": "Zostałeś wyciszony",
+    "EMBED_TMUTE_MODERATED_TITLE": "Zostałeś tymczasowo wyciszony",
+    "EMBED_NOTE_MODERATED_TITLE": "Dostałeś upomnienie",
+    "EMBED_BAN_MODERATED_DESCRIPTION": "Zostałeś zbanowany na serwerze ${serverName}."
 }
