@@ -1,8 +1,8 @@
 {
-    "INVALID_SYNTAX": "Syntaxe non valide, s'il vous plait essayez `${syntax}`.",
-    "CURRENT_PREFIX": "La préfixe du commande est `${prefix}`.",
-    "NEW_PREFIX": "Le préfixe du commande à été mis à `${newPrefix}`.",
-    "CURRENT_LANGUAGE": "La langue est actuellement mis en`${language}`.",
-    "NEW_LANGUAGE": "La langue à été mise à jour en `${newLanguage}`.",
+    "INVALID_SYNTAX": "Syntaxe non valide, s'il vous plait essayez ${syntax}.",
+    "CURRENT_PREFIX": "La préfixe du commande est ${prefix}.",
+    "NEW_PREFIX": "Le préfixe du commande à été mis à ${newPrefix}.",
+    "CURRENT_LANGUAGE": "La langue est actuellement mis en ${language}.",
+    "NEW_LANGUAGE": "La langue à été mise à jour en ${newLanguage}.",
     "AVAILABLE_LANGUAGES": "Les langues indiqués suivant sont ceux qui sont disponibles:${languages}\nPour choisir une langue, s'il vous plait utilisez le code langage (**`en`** par exemple)"
 }
