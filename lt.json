@@ -1,1 +1,8 @@
-{}
+{
+    "INVALID_SYNTAX": "Netinkama sintaksė, pabandykite `${syntax}`.",
+    "CURRENT_PREFIX": "Dabartinis komandos priešdėlis yra `${prefix}`.",
+    "NEW_PREFIX": "Komandos priešdėlis nustatytas kaip `${newPrefix}`.",
+    "NEW_LANGUAGE": "Kalba nustatyta į `${newLanguage}`.",
+    "AVAILABLE_LANGUAGES": "Galimos šios kalbos: ${languages}\nNorėdami pasirinkti kalbą, naudokite kalbos kodą (pavyzdžiui, **`en`**).",
+    "CURRENT_LANGUAGE": "Dabartinė kalba yra `${language}`."
+}
