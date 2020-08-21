@@ -32,7 +32,7 @@
     "EMBED_BAN_MODERATED_TITLE": "Zostałeś zbanowany",
     "EMBED_TBAN_MODERATED_TITLE": "Zostałeś tymczasowo zbanowany",
     "EMBED_KICK_MODERATED_TITLE": "Zostałeś wyrzucony",
-    "EMBED_STAFFNOTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} dostał notatkę od administracji. ",
+    "EMBED_STAFFNOTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} dostał notatkę od administracji.",
     "EMBED_UNMUTE_MODERATED_TITLE": "Zostałeś odciszony",
     "EMBED_MUTE_MODERATED_TITLE": "Zostałeś wyciszony",
     "EMBED_TMUTE_MODERATED_TITLE": "Zostałeś tymczasowo wyciszony",
