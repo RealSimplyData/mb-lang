@@ -4,5 +4,6 @@
     "NEW_PREFIX": "Komandos priešdėlis nustatytas kaip `${newPrefix}`.",
     "NEW_LANGUAGE": "Kalba nustatyta į `${newLanguage}`.",
     "AVAILABLE_LANGUAGES": "Galimos šios kalbos: ${languages}\nNorėdami pasirinkti kalbą, naudokite kalbos kodą (pavyzdžiui, **`en`**).",
-    "CURRENT_LANGUAGE": "Dabartinė kalba yra `${language}`."
+    "CURRENT_LANGUAGE": "Dabartinė kalba yra `${language}`.",
+    "TEST": "Bandomoji Žinutė"
 }
