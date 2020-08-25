@@ -7,7 +7,7 @@
     "INVALID_SYNTAX": "Ungültiger Syntax, bitte versuche **`${syntax}`**.",
     "CURRENT_LANGUAGE": "Die derzeitige Sprache ist **${language}**.",
     "AVAILABLE_LANGUAGES": "Die folgenden Sprachen stehen zur Verfügung: **${languages}**\nUm eine Sprache auszuwählen, bitte benutze dessen Sprachcode (**`de`** als Beispiel)",
-    "NO_PERMISSIONS": "Du hast nicht die benötigten Berechtigungen um diesen Befehl auszuführen.\nAusführung benötigt die Berechtigungen **${permissions}**.",
+    "NO_PERMISSIONS": "Du hast nicht die benötigten Berechtigungen um diesen Befehl auszuführen.\nAusführung benötigt die Berechtigung(en) **${permissions}**.",
     "EMBED_TMUTE_MODERATOR_DESCRIPTION": "Der Benutzer ${user} ${userId} wurde temporär gestummt.",
     "EMBED_MODERATION_DASHBOARD_FIELD_TITLE": "Dashboard Link",
     "EMBED_TBAN_MODERATED_TITLE": "Du wurdest temporär gebannt",
