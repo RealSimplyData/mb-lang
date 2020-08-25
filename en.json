@@ -1,6 +1,6 @@
 {
     "INVALID_SYNTAX": "Invalid syntax, please try **`${syntax}`**.",
-    "NO_PERMISSIONS": "You don't have sufficient permissions to use this command.\nExecution requires the permissions **${permissions}**.",
+    "NO_PERMISSIONS": "You don't have sufficient permissions to use this command.\nExecution requires the permission(s) **${permissions}**.",
     "SUPPORT_SERVER": "You can receive help for this bot at ${serverInvite}.",
 
     "CURRENT_PREFIX": "The current command prefix is **`${prefix}`**.",
