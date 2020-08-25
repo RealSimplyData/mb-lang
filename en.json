@@ -1,14 +1,14 @@
 {
-    "INVALID_SYNTAX": "Invalid syntax, please try ${syntax}.",
-    "NO_PERMISSIONS": "You don't have sufficient permissions to use this command.\nExecution requires ${permissions}.",
+    "INVALID_SYNTAX": "Invalid syntax, please try **`${syntax}`**.",
+    "NO_PERMISSIONS": "You don't have sufficient permissions to use this command.\nExecution requires the permissions **${permissions}**.",
     "SUPPORT_SERVER": "You can receive help for this bot at ${serverInvite}.",
 
-    "CURRENT_PREFIX": "The current command prefix is ${prefix}.",
-    "NEW_PREFIX": "The command prefix has been set to ${newPrefix}.",
+    "CURRENT_PREFIX": "The current command prefix is **`${prefix}`**.",
+    "NEW_PREFIX": "The command prefix has been set to **`${newPrefix}`**.",
 
-    "CURRENT_LANGUAGE": "The current language is ${language}.",
-    "NEW_LANGUAGE": "The language has been set to ${newLanguage}.",
-    "AVAILABLE_LANGUAGES": "The following languages are available: ${languages}\nTo choose a language, please use the language code (**`en`** as example)",
+    "CURRENT_LANGUAGE": "The current language is **${language}**.",
+    "NEW_LANGUAGE": "The language has been set to **${newLanguage}**.",
+    "AVAILABLE_LANGUAGES": "The following languages are available: **${languages}**\nTo choose a language, please use the language code (**`en`** as example)",
 
     "CURRENT_SETTING": "The setting **`${setting}`** is currently set to **`${value}`**.",
     "NEW_SETTING": "The setting **`${setting}`** has been set to **`${value}`**.",
@@ -45,13 +45,13 @@
     "EMBED_TMUTE_MODERATED_TITLE": "You got temporarily muted",
     "EMBED_NOTE_MODERATED_TITLE": "You received a notice",
 
-    "EMBED_BAN_MODERATED_DESCRIPTION": "You got banned from the server ${serverName}.",
-    "EMBED_TBAN_MODERATED_DESCRIPTION": "You got temporarily banned from the server ${serverName}.",
-    "EMBED_KICK_MODERATED_DESCRIPTION": "You got kicked from the server ${serverName}.",
-    "EMBED_UNMUTE_MODERATED_DESCRIPTION": "You got unmuted from the server ${serverName}.",
-    "EMBED_MUTE_MODERATED_DESCRIPTION": "You got muted from the server ${serverName}.",
-    "EMBED_TMUTE_MODERATED_DESCRIPTION": "You got temporarily muted from the server ${serverName}.",
-    "EMBED_NOTE_MODERATED_DESCRIPTION": "You received a notice from the server ${serverName}.",
+    "EMBED_BAN_MODERATED_DESCRIPTION": "You got banned from the server **${serverName}**.",
+    "EMBED_TBAN_MODERATED_DESCRIPTION": "You got temporarily banned from the server **${serverName}**.",
+    "EMBED_KICK_MODERATED_DESCRIPTION": "You got kicked from the server **${serverName}**.",
+    "EMBED_UNMUTE_MODERATED_DESCRIPTION": "You got unmuted from the server **${serverName}**.",
+    "EMBED_MUTE_MODERATED_DESCRIPTION": "You got muted from the server **${serverName}**.",
+    "EMBED_TMUTE_MODERATED_DESCRIPTION": "You got temporarily muted from the server **${serverName}**.",
+    "EMBED_NOTE_MODERATED_DESCRIPTION": "You received a notice from the server **${serverName}**.",
 
     "INVALID_AUTH_CODE": "You provided an invalid authorization code."
 }
