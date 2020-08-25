@@ -44,5 +44,7 @@
     "EMBED_TMUTE_MODERATED_DESCRIPTION": "Du wurdest vom Server ${serverName} temporär gestummt.",
     "EMBED_NOTE_MODERATED_DESCRIPTION": "Du hast vom Server ${serverName} eine Notiz bekommen.",
     "INVALID_AUTH_CODE": "Du hast einen ungültigen Autorisierungscode gegeben.",
-    "EMBED_TBAN_MODERATOR_DESCRIPTION": "Der Benutzer ${user} ${userId} wurde temporär gebannt."
+    "EMBED_TBAN_MODERATOR_DESCRIPTION": "Der Benutzer ${user} ${userId} wurde temporär gebannt.",
+    "CURRENT_SETTING": "Die Einstellung **${setting}** ist zurzeit auf **${value}** gesetzt.",
+    "NEW_SETTING": "Die Einstellung **${setting}** wurde auf **${value}** gesetzt."
 }
