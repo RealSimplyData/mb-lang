@@ -5,7 +5,7 @@
     "WELCOME_MESSAGE": "Hey, thank you for adding me to your server. Here are a few important things you should do before I work to my full extend as well as the configurations I set myself based on the guild options.",
     "COMMUNITY_SERVER_MESSAGE": "Because this server is set as Community Server, Authorization Codes are enforced. To learn about authorization codes, please visit ${url}.",
     "BASE_SETTINGS_MESSAGE": "For me to fully work, you need to set a logs channel. You can view a list of settings with `${command}`. \nThis also shows the command you need to use to view/modify that certain setting.",
-    "LANGUAGE_SUPPORT_MESSAGE": "I have language support! You can view all supported languages with `${command}` as well for an example syntax to set it. All languages are community contributed, so there may be missing entries which will be shown in English. If you wish to contribute, you can get information with `${command}`.",
+    "LANGUAGE_SUPPORT_MESSAGE": "I have language support! You can view all supported languages and their codes with `${command}`. All languages are community contributed, so there may be missing entries which will be shown in English. If you wish to contribute, you can get information with `${command}`.",
     "CURRENT_PREFIX": "The current command prefix is **`${prefix}`**.",
     "NEW_PREFIX": "The command prefix has been set to **`${newPrefix}`**.",
     "CURRENT_LANGUAGE": "The current language is **${language}**.",
