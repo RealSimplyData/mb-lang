@@ -18,14 +18,14 @@
     "EMBED_MUTE_MODERATOR_TITLE": "Użytkownik Wyciszony",
     "EMBED_NOTE_MODERATOR_TITLE": "Użytkownik Dostał Upomnienie",
     "EMBED_BAN_MODERATOR_DESCRIPTION": "Użytkownik **`${user}`** (`${userId}`) został zbanowany.",
-    "EMBED_KICK_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został wyrzucony.",
+    "EMBED_KICK_MODERATOR_DESCRIPTION": "Użytkownik **`${user}`** (`${userId}`) został wyrzucony.",
     "EMBED_UNMUTE_MODERATOR_DESCRIPTION": "Użytkownik **`${user}`** (`${userId}`) został odciszony.",
     "EMBED_TMUTE_MODERATOR_TITLE": "Użytkownik Tymczasowo Wyciszony",
     "EMBED_MODERATION_DASHBOARD_FIELD_TITLE": "Link do tablicy",
-    "EMBED_MUTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został wyciszony.",
+    "EMBED_MUTE_MODERATOR_DESCRIPTION": "Użytkownik **`${user}`** (`${userId}`) został wyciszony.",
     "EMBED_TMUTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} został tymczasowo wyciszony.",
     "EMBED_MODERATION_DASHBOARD_FIELD_VALUE": "Otwórz na Stronie Domowej serwera",
-    "EMBED_NOTE_MODERATOR_DESCRIPTION": "Użytkownik ${user} ${userId} dostał upomnienie.",
+    "EMBED_NOTE_MODERATOR_DESCRIPTION": "Użytkownik **`${user}`** (`${userId}`) dostał upomnienie.",
     "EMBED_TBAN_MODERATOR_TITLE": "Użytkownik Tymczasowo Zbanowany",
     "EMBED_KICK_MODERATOR_TITLE": "Użytkownik Wyrzucony",
     "EMBED_STAFFNOTE_MODERATOR_TITLE": "Użytkownik Dostał Notatkę Od Administracji",
@@ -62,5 +62,8 @@
     "EMBED_TEMP_MUTE_MODERATOR_DESCRIPTION": "Użytkownik **`${user}`** (`${userId}`) został tymczasowo wyciszony.",
     "EMBED_STRIKE_MODERATOR_DESCRIPTION": "Użytkownik **`${user}`** (`${userId}`) otrzymał ostrzeżenie.",
     "EMBED_STRIKE_MODERATOR_TITLE": "Użytkownik ostrzeżony",
-    "EMBED_UNBAN_MODERATED_TITLE": "Zostałeś odbanowany"
+    "EMBED_UNBAN_MODERATED_TITLE": "Zostałeś odbanowany",
+    "EMBED_TEMP_BAN_MODERATED_TITLE": "Zostałeś tymczasowo zbanowany",
+    "EMBED_TEMP_MUTE_MODERATED_TITLE": "Zostałeś tymczasowo wyciszony",
+    "EMBED_TEMP_BAN_MODERATOR_DESCRIPTION": "Użytkownik **`${user}`** (`${userId}`) został tymczasowo zbanowany."
 }
