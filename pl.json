@@ -46,7 +46,7 @@
     "EMBED_NOTE_MODERATED_DESCRIPTION": "Dostałeś upomnienie z serwera **${serverName}**.",
     "INVALID_AUTH_CODE": "Podałeś niewłaściwy kod autoryzacji.",
     "WELCOME_MESSAGE": "Hej, dziękuję za dodanie mnie do serwera. Tutaj jest parę ważnych rzeczy które powinieneś zrobić zanim będę mógł całkowicie działać oraz konfiguracje które sam ustawiłem oparte na opcjach serwera.",
-    "LANGUAGE_SUPPORT_MESSAGE": "Posiadam wsparcie języków! Możesz przejrzeć wszystkie dostępne języki przy użyciu ${command}, jak i również przykładową składnię, aby ustawić ją prawidłowo. Wszystkie języki są stworzone przez społeczność, więc niektóre zdania lub wyrazy mogą wyświetlać się w języku angielskim. Jeżeli chcesz przyczynić się do tłumaczenia mnie, proszę zapoznaj się z informacjami z komendy ${command}.",
+    "LANGUAGE_SUPPORT_MESSAGE": "Posiadam wsparcie języków! Możesz przejrzeć wszystkie dostępne języki przy użyciu `${command}` jak i również przykładową składnie, żeby ustawić ją prawidłowo. Wszystkie języki są stworzone przez społeczność, dlatego niektóre zdania i wyrazy mogą się wyświetlać w języku angielskim. Jeżeli masz chęć przyczynienia się do tłumaczenia bota, proszę zapoznaj się z informacjami z komendy `${command}`.",
     "EMBED_STRIKE_MODERATED_DESCRIPTION": "Dostałeś ostrzeżenie na serwerze **${serverName}**.",
     "EMBED_UNBAN_MODERATOR_DESCRIPTION": "Użytkownik **`${user}`** (`${userId}`) został odbanowany.",
     "EMBED_STAFF_NOTE_MODERATOR_DESCRIPTION": "Użytkownik **`${user}`** (`${userId}`) otrzymał upomnienie moderatorskie.",
