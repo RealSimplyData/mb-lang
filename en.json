@@ -64,15 +64,18 @@
     "EMBED_STRIKE_MODERATED_DESCRIPTION": "You got striked on the server **${serverName}**.",
     "EMBED_UNMUTE_MODERATED_DESCRIPTION": "You got unmuted on the server **${serverName}**.",
     "EMBED_MUTE_MODERATED_DESCRIPTION": "You got muted on the server **${serverName}**.",
-    "EMBED_TMUTE_MODERATED_DESCRIPTION": "You got temporarily muted on the server **${serverName}**.",
+    "EMBED_TEMP_MUTE_MODERATED_DESCRIPTION": "You got temporarily muted on the server **${serverName}**.",
     "EMBED_NOTE_MODERATED_DESCRIPTION": "You received a notice on the server **${serverName}**.",
 
     "INVALID_AUTH_CODE": "You provided an invalid authorization code.",
     "CONFIRM_ACTION": "Please confirm this action within the next ${time} seconds with `${command}`.",
+    "NO_MUTED_ROLE": "This server does not have a valid muted role set right now. Please set one with `${command}` first.",
 
     "USER_DOES_NOT_EXIST": "The user you specified does not exist on Discord.",
     "USER_ALREADY_BANNED": "The user **`${user}`** is already banned here.",
+    "USER_ALREADY_MUTED": "The user **`${user}`** is already muted here.",
     "USER_NOT_BANNED": "The user **`${user}`** is not banned here.",
+    "USER_NOT_MUTED": "The user **`${user}`** is not muted here.",
     "USER_NOT_IN_GUILD": "The user **`${user}`** is not a member of this guild.",
     "NO_OFFICIAL_BAN_RECORD": "This user had no official ban record in my database, so I did a simple unban.",
 
