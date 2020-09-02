@@ -59,7 +59,7 @@
 
     "EMBED_BAN_MODERATED_DESCRIPTION": "You got banned from the server **${serverName}**.",
     "EMBED_UNBAN_MODERATED_DESCRIPTION": "You got unbanned from the server **${serverName}**.",
-    "EMBED_TBAN_MODERATED_DESCRIPTION": "You got temporarily banned from the server **${serverName}**.",
+    "EMBED_TEMP_BAN_MODERATED_DESCRIPTION": "You got temporarily banned from the server **${serverName}**.",
     "EMBED_KICK_MODERATED_DESCRIPTION": "You got kicked from the server **${serverName}**.",
     "EMBED_STRIKE_MODERATED_DESCRIPTION": "You got striked on the server **${serverName}**.",
     "EMBED_UNMUTE_MODERATED_DESCRIPTION": "You got unmuted on the server **${serverName}**.",
