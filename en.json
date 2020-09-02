@@ -1,24 +1,30 @@
 {
     "INVALID_SYNTAX": "Invalid syntax, please try **`${syntax}`**.",
-    "NO_PERMISSIONS": "You don't have sufficient permissions to use this command.\nExecution requires the permission(s): **${permissions}**.",
+    "NO_PERMISSIONS": "You don't have sufficient permissions to use this command.\nExecution requires the permission(s) **${permissions}**.",
     "SUPPORT_SERVER": "You can receive help for this bot at ${serverInvite}.",
+
     "WELCOME_MESSAGE": "Hey, thank you for adding me to your server. Here are a few important things you should do before I work to my full extend as well as the configurations I set myself based on the guild options.",
     "COMMUNITY_SERVER_MESSAGE": "Because this server is set as Community Server, Authorization Codes are enforced. To learn about authorization codes, please visit ${url}.",
     "BASE_SETTINGS_MESSAGE": "For me to fully work, you need to set a logs channel. You can view a list of settings with `${command}`. \nThis also shows the command you need to use to view/modify that certain setting.",
-    "LANGUAGE_SUPPORT_MESSAGE": "I have language support! You can view all supported languages and their codes with `${command}`. All languages are community contributed, so there may be missing entries which will be shown in English. If you wish to contribute, you can get information with `${command}`.",
+    "LANGUAGE_SUPPORT_MESSAGE": "I have language support! You can view all available languages with `${command}` as well for an example syntax to set it. All languages are community contributed, so there might be missing entries which get shown in english. If you wish to contribute, you can get information with `${command}`.",
+
     "CURRENT_PREFIX": "The current command prefix is **`${prefix}`**.",
     "NEW_PREFIX": "The command prefix has been set to **`${newPrefix}`**.",
+
     "CURRENT_LANGUAGE": "The current language is **${language}**.",
     "NEW_LANGUAGE": "The language has been set to **${newLanguage}**.",
     "AVAILABLE_LANGUAGES": "The following languages are available: **${languages}**\nTo choose a language, please use the language code (**`en`** as example)",
+
     "CURRENT_SETTING": "The setting **`${setting}`** is currently set to **`${value}`**.",
     "NEW_SETTING": "The setting **`${setting}`** has been set to **`${value}`**.",
     "INVALID_SETTING": "The value **`${value}`** is invalid for this setting.",
+
     "EMBED_MODERATION_MOD_FIELD_TITLE": "Moderator",
     "EMBED_MODERATION_REASON_FIELD_TITLE": "Reason",
     "EMBED_MODERATION_DASHBOARD_FIELD_TITLE": "Dashboard Link",
     "EMBED_MODERATION_DASHBOARD_FIELD_VALUE": "View on the Server Dashboard",
     "EMBED_MODERATION_EXPIRES_FIELD_TITLE": "Expires",
+
     "EMBED_BAN_MODERATOR_TITLE": "User Banned",
     "EMBED_UNBAN_MODERATOR_TITLE": "User Unbanned",
     "EMBED_TEMP_BAN_MODERATOR_TITLE": "User Temporarily Banned",
@@ -29,6 +35,7 @@
     "EMBED_TEMP_MUTE_MODERATOR_TITLE": "User Temporarily Muted",
     "EMBED_NOTE_MODERATOR_TITLE": "User Received Notice",
     "EMBED_STAFF_NOTE_MODERATOR_TITLE": "User Received Staff Note",
+
     "EMBED_BAN_MODERATOR_DESCRIPTION": "The user **`${user}`** (`${userId}`) has been banned.",
     "EMBED_UNBAN_MODERATOR_DESCRIPTION": "The user **`${user}`** (`${userId}`) has been unbanned.",
     "EMBED_TEMP_BAN_MODERATOR_DESCRIPTION": "The user **`${user}`** (`${userId}`) has been temporarily banned.",
@@ -39,6 +46,7 @@
     "EMBED_TEMP_MUTE_MODERATOR_DESCRIPTION": "The user **`${user}`** (`${userId}`) has been temporarily muted.",
     "EMBED_NOTE_MODERATOR_DESCRIPTION": "The user **`${user}`** (`${userId}`) has received a notice.",
     "EMBED_STAFF_NOTE_MODERATOR_DESCRIPTION": "The user **`${user}`** (`${userId}`) has received a staff note.",
+
     "EMBED_BAN_MODERATED_TITLE": "You got banned",
     "EMBED_UNBAN_MODERATED_TITLE": "You got unbanned",
     "EMBED_TEMP_BAN_MODERATED_TITLE": "You got temporarily banned",
@@ -48,6 +56,7 @@
     "EMBED_MUTE_MODERATED_TITLE": "You got muted",
     "EMBED_TEMP_MUTE_MODERATED_TITLE": "You got temporarily muted",
     "EMBED_NOTE_MODERATED_TITLE": "You received a notice",
+
     "EMBED_BAN_MODERATED_DESCRIPTION": "You got banned from the server **${serverName}**.",
     "EMBED_UNBAN_MODERATED_DESCRIPTION": "You got unbanned from the server **${serverName}**.",
     "EMBED_TBAN_MODERATED_DESCRIPTION": "You got temporarily banned from the server **${serverName}**.",
@@ -57,13 +66,11 @@
     "EMBED_MUTE_MODERATED_DESCRIPTION": "You got muted on the server **${serverName}**.",
     "EMBED_TEMP_MUTE_MODERATED_DESCRIPTION": "You got temporarily muted on the server **${serverName}**.",
     "EMBED_NOTE_MODERATED_DESCRIPTION": "You received a notice on the server **${serverName}**.",
+
     "INVALID_AUTH_CODE": "You provided an invalid authorization code.",
     "CONFIRM_ACTION": "Please confirm this action within the next ${time} seconds with `${command}`.",
-<<<<<<< HEAD
     "NO_MUTED_ROLE": "This server does not have a valid muted role set right now. Please set one with `${command}` first.",
 
-=======
->>>>>>> 2e16ce58639e563a84759823b1ad76022d35bb44
     "USER_DOES_NOT_EXIST": "The user you specified does not exist on Discord.",
     "USER_ALREADY_BANNED": "The user **`${user}`** is already banned here.",
     "USER_ALREADY_MUTED": "The user **`${user}`** is already muted here.",
@@ -71,13 +78,17 @@
     "USER_NOT_MUTED": "The user **`${user}`** is not muted here.",
     "USER_NOT_IN_GUILD": "The user **`${user}`** is not a member of this guild.",
     "NO_OFFICIAL_BAN_RECORD": "This user had no official ban record in my database, so I did a simple unban.",
+
     "UNABLE_TO_NOTIFY_USER": "I was unable to notify the user. Either they have closed DMs, blocked me or don't share any servers",
+
     "CASE_CREATED": "I have created this users case and performed any additional actions required with it.",
     "CASE_REVOKED": "I have revoked this users case and any additional actions taken with it.",
     "CASE_DELETED": "I have deleted this users case and revoked any additional actions taken with it.",
+
     "EXECUTED_BY": "Executed by ${moderator}",
     "NO_REASON": "No reason specified",
     "TIME_NOT_IN_THE_FUTURE": "The time you gave me must be atleast 30 seconds into the future.",
+
     "COMMAND_BAN_INFO": "You are about to ban the user **`${userTag}`**.",
     "COMMAND_TEMP_BAN_INFO": "You are about to ban the user **`${userTag}`**. They will be unbanned **`${when}`**.",
     "COMMAND_UNBAN_INFO": "You are about to unban the user **`${userTag}`**.",
