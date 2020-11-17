@@ -1,1 +1,5 @@
-{}
+{
+    "INVALID_SYNTAX": "Sintaxis inválida, por favor intenta **`${syntax}`**.",
+    "SUPPORT_SERVER": "Podrás recibir ayuda para este bot en ${serverInvite}.",
+    "NO_PERMISSIONS": "No tienes suficientes permisos para usar este comando.\nEjecución requiere los permisos **${permissions}**."
+}
