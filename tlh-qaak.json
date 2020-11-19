@@ -1,1 +1,4 @@
-{}
+{
+    "INVALID_SYNTAX": "SeHchoH je leHtaHvIS je **`${syntax}`**",
+    "SUPPORT_SERVER": "botlh choloHlaHpu' 'e' DaSovchu' ${serverInvite}."
+}
