@@ -1,4 +1,9 @@
 {
     "INVALID_SYNTAX": "SeHchoH je leHtaHvIS je **`${syntax}`**.",
-    "SUPPORT_SERVER": "botlh choloHlaHpu' 'e' DaSovchu' ${serverInvite}."
+    "SUPPORT_SERVER": "botlh choloHlaHpu' 'e' DaSovchu' ${serverInvite}.",
+    "NO_PERMISSIONS": "chenmoHmeH yapbe'mo' bIchenmoHbe'chugh.\nwo'majDaq chentaHvIS'e' **${permissions}**.",
+    "CURRENT_LANGUAGE": "vaj teHbe'choH **${language}**.",
+    "CURRENT_PREFIX": "vaj tugh che'wI' **`${prefix}`**.",
+    "NEW_PREFIX": "chepHa'wI' ponglu' **`${newPrefix}`**.",
+    "NEW_LANGUAGE": "wovHa'choH jIvHa'wI' **${newLanguage}**."
 }
