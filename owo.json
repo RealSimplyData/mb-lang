@@ -1,1 +1,11 @@
-{}
+{
+    "SUPPORT_SERVER": "You can rewive help for twhis bot at ${serverInvite}.",
+    "CURRENT_PREFIX": "The cuwwrent cowwmand prefix is **`${prefix}`**.",
+    "NEW_PREFIX": "The cowwmand prewix has been set to**`${newPrefix}`**.",
+    "CURRENT_LANGUAGE": "The currwent langwuage is **${language}**.",
+    "NEW_LANGUAGE": "The langwuage has been set to **${newLanguage}**.",
+    "CURRENT_SETTING": "The sweeting **`${setting}`** is cuwwently set to **`${value}`**.",
+    "INVALID_SYNTAX": "Invwalid sywntax, pwease try **`${syntax}`**.",
+    "NO_PERMISSIONS": "You dwn't have suffwicient perwmissions to use this cowwmand. \nEwecution rewruies the perwmissions **${permissions}**.",
+    "AVAILABLE_LANGUAGES": "The fowwowing languwages are available: **${languages}**\nTo choose a languwage, pwease use the langwuage code (**`en`** as ewample)"
+}
