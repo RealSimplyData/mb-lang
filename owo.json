@@ -7,5 +7,21 @@
     "CURRENT_SETTING": "The sweeting **`${setting}`** is cuwwently set to **`${value}`**.",
     "INVALID_SYNTAX": "Invwalid sywntax, pwease try **`${syntax}`**.",
     "NO_PERMISSIONS": "You dwn't have suffwicient perwmissions to use this cowwmand. \nEwecution rewruies the perwmissions **${permissions}**.",
-    "AVAILABLE_LANGUAGES": "The fowwowing languwages are available: **${languages}**\nTo choose a languwage, pwease use the langwuage code (**`en`** as ewample)"
+    "AVAILABLE_LANGUAGES": "The fowwowing languwages are available: **${languages}**\nTo choose a languwage, pwease use the langwuage code (**`en`** as ewample)",
+    "NEW_SETTING": "The swetting **`${setting}`** has been set to **`${value}`**.",
+    "INVALID_SETTING": "The vwalue **`${value}`** is invwalid for this sewwting.",
+    "EMBED_MODERATION_MOD_FIELD_TITLE": "Owoderator",
+    "EMBED_MODERATION_REASON_FIELD_TITLE": "Rewason",
+    "EMBED_MODERATION_DASHBOARD_FIELD_TITLE": "Dwashboard Link",
+    "EMBED_MODERATION_DASHBOARD_FIELD_VALUE": "View on the Server Dwashboard",
+    "EMBED_MODERATION_EXPIRES_FIELD_TITLE": "Ewxpies",
+    "EMBED_BAN_MODERATOR_TITLE": "Uwsr Bwanned",
+    "EMBED_UNBAN_MODERATOR_TITLE": "Uwer Unbwanned",
+    "EMBED_TEMP_BAN_MODERATOR_TITLE": "Uwer Temporaily Bwanned",
+    "EMBED_KICK_MODERATOR_TITLE": "Uwer Kiwcked",
+    "EMBED_STRIKE_MODERATOR_TITLE": "Uwer Swtriked",
+    "EMBED_UNMUTE_MODERATOR_TITLE": "Uwser Unmuted",
+    "EMBED_MUTE_MODERATOR_TITLE": "Uwer Muted",
+    "EMBED_TEMP_MUTE_MODERATOR_TITLE": "Uwer Tempowaily Muted",
+    "EMBED_NOTE_MODERATOR_TITLE": "Uwer Received Nowotice"
 }
