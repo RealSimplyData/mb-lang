@@ -106,6 +106,7 @@
     "command.settings.invalidChannel": "You supplied an invalid channel. Make sure it exists and is part of this guild.",
     "command.settings.invalidRole": "You supplied an invalid role. Make sure it exists and is part of this guild.",
     "command.settings.invalidBoolean": "You supplied an invalid boolean.",
+    "command.settings.invalidLanguage": "You supplied an invalid language code. Please use one from the following list:\n\n",
     "command.settings.updated": "I updated the setting **`${name}`** with the value **`${value}`**.",
     "command.settings.notImplemented": "This setting is currently not implemented.",
     "command.settings.proOnly": "This setting is part of the Pro version from Emberspace. Please upgrade to Pro before you change this setting.",
