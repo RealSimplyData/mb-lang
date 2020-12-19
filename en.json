@@ -99,5 +99,15 @@
     "COMMAND_UNMUTE_INFO": "You are about to unmute the user **`${userTag}`**.",
     "COMMAND_NOTE_INFO": "You are about to give the user **`${userTag}`** a note.",
     "COMMAND_STAFF_NOTE_INFO": "You are about to give the user **`${userTag}`** a staff note.",
-    "COMMAND_REVOKE_INFO": "You are about to revoke the case with id **`${caseId}`**."
+    "COMMAND_REVOKE_INFO": "You are about to revoke the case with id **`${caseId}`**.",
+
+    "command.settings.description": "Here are the current settings of the guild:",
+    "command.settings.invalidArgumentLength": "You supplied an invalid amount of arguments.",
+    "command.settings.invalidChannel": "You supplied an invalid channel. Make sure it exists and is part of this guild.",
+    "command.settings.invalidRole": "You supplied an invalid role. Make sure it exists and is part of this guild.",
+    "command.settings.invalidBoolean": "You supplied an invalid boolean.",
+    "command.settings.updated": "I updated the setting **`${name}`** with the value **`${value}`**.",
+    "command.settings.notImplemented": "This setting is currently not implemented.",
+    "command.settings.proOnly": "This setting is part of the Pro version from Emberspace. Please upgrade to Pro before you change this setting.",
+    "command.invalidSubcommand": "I did not recognize the subcommand you gave me."
 }
